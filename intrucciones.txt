@@ -1,0 +1,2 @@
+Instalar dependencias -> pip install -r requirements.txt
+Ejecutar -> python finger_mouse.py
