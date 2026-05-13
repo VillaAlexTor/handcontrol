@@ -1,2 +1,10 @@
 Instalar dependencias -> pip install -r requirements.txt
 Ejecutar -> python finger_mouse.py
+
+
+Gestos                                              Acción
+☝️Solo índice arriba                             Mover cursor
+🤏Pellizco (índice + pulgar juntos)             Clic izquierdo
+✌️Índice + medio arriba                      Scroll (subir/bajar)
+🖐️5 dedos abiertos                               Clic derecho
+✊ Puño cerrado                               Pausar / Reanudar
